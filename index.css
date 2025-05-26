@@ -1,6 +1,7 @@
 body {
     background-image: url("gratitude.jpeg");
     background-size: cover;
+    background-position: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
